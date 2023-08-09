@@ -8,6 +8,14 @@ It was implemented an AI algorithm to detect the face.
 
 With the face detected, It was selected a portion to adquiere the mean of each of the component of the frame R, G, B.
 
+
+<p align="right">
+  <img width="600" height="600" src=https://github.com/FernandoMoralesM01/HeartBeatVideoDetect/assets/94548980/00f0f59b-31aa-450e-a16f-15c144893b1d>
+  <br><br><br>
+  <img width="600" height="600" src=https://github.com/FernandoMoralesM01/HeartBeatVideoDetect/assets/94548980/bb4edc74-4914-4f5b-b279-36df16ac0fb7>
+  
+</p>
+
 ![image](https://github.com/FernandoMoralesM01/HeartBeatVideoDetect/assets/94548980/00f0f59b-31aa-450e-a16f-15c144893b1d)
 
 The program filters all the data and compares with an Spo2 sensor that match with the frames.
